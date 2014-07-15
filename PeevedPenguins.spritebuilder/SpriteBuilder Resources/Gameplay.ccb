@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>225</real>
-						<real>100</real>
+						<real>224.76966857910156</real>
+						<real>100.04246520996094</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>50</real>
+						<real>50.200553894042969</real>
 						<true/>
 					</array>
 				</dict>
@@ -509,6 +509,14 @@
 											<false/>
 											<integer>0</integer>
 										</array>
+									</dict>
+									<dict>
+										<key>name</key>
+										<string>rotation</string>
+										<key>type</key>
+										<string>Degrees</string>
+										<key>value</key>
+										<real>0.16097389161586761</real>
 									</dict>
 									<dict>
 										<key>name</key>
