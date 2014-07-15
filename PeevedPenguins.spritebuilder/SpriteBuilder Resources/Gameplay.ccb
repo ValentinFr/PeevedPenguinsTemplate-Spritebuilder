@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>229</real>
-						<real>100</real>
+						<real>231.87089538574219</real>
+						<real>99.526458740234375</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -93,8 +93,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>6</real>
-						<real>6.5</real>
+						<real>7.998784065246582</real>
+						<real>6.4302000999450684</real>
 					</array>
 				</dict>
 				<dict>
@@ -372,6 +372,8 @@
 								</array>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -477,7 +479,7 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>244</real>
+											<real>242</real>
 											<real>182</real>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -510,6 +512,14 @@
 									</dict>
 									<dict>
 										<key>name</key>
+										<string>rotation</string>
+										<key>type</key>
+										<string>Degrees</string>
+										<key>value</key>
+										<real>-2</real>
+									</dict>
+									<dict>
+										<key>name</key>
 										<string>spriteFrame</string>
 										<key>type</key>
 										<string>SpriteFrame</string>
@@ -533,8 +543,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -693,7 +701,7 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>255</real>
+											<real>258</real>
 											<real>82</real>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -749,8 +757,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
