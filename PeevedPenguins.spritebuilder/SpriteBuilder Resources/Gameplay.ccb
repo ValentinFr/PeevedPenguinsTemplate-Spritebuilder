@@ -16,7 +16,7 @@
 	<key>currentResolution</key>
 	<integer>0</integer>
 	<key>currentSequenceId</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>docDimensionsType</key>
 	<integer>2</integer>
 	<key>fileType</key>
@@ -1948,8 +1948,6 @@
 						<string>WaitingPenguin.ccb</string>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -2073,7 +2071,7 @@
 			<key>length</key>
 			<real>10</real>
 			<key>name</key>
-			<string>Default Timeline</string>
+			<string>Untitled Timeline</string>
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
@@ -2081,9 +2079,9 @@
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>150.18820190429688</real>
+			<real>128</real>
 			<key>sequenceId</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>soundChannel</key>
 			<dict>
 				<key>isExpanded</key>
